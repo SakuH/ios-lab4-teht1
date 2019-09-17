@@ -12,6 +12,22 @@
 		08612A1723311F35003563E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08612A1523311F35003563E8 /* Main.storyboard */; };
 		08612A1923311F36003563E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08612A1823311F36003563E8 /* Assets.xcassets */; };
 		08612A1C23311F36003563E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08612A1A23311F36003563E8 /* LaunchScreen.storyboard */; };
+		08612A372331204F003563E8 /* elephant.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08612A272331204E003563E8 /* elephant.wav */; };
+		08612A382331204F003563E8 /* huuhkaja_norther_eagle_owl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 08612A282331204E003563E8 /* huuhkaja_norther_eagle_owl.mp3 */; };
+		08612A392331204F003563E8 /* bear.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08612A292331204E003563E8 /* bear.wav */; };
+		08612A3A2331204F003563E8 /* lamb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08612A2A2331204E003563E8 /* lamb.jpg */; };
+		08612A3B2331204F003563E8 /* punatulkku_northern_bullfinch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 08612A2B2331204E003563E8 /* punatulkku_northern_bullfinch.mp3 */; };
+		08612A3C2331204F003563E8 /* punatulkku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08612A2C2331204E003563E8 /* punatulkku.jpg */; };
+		08612A3D2331204F003563E8 /* wolf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08612A2D2331204E003563E8 /* wolf.jpg */; };
+		08612A3E2331204F003563E8 /* lamb.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08612A2E2331204E003563E8 /* lamb.wav */; };
+		08612A3F2331204F003563E8 /* peukaloinen_wren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 08612A2F2331204E003563E8 /* peukaloinen_wren.mp3 */; };
+		08612A402331204F003563E8 /* wolf.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08612A302331204F003563E8 /* wolf.wav */; };
+		08612A412331204F003563E8 /* elephant.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08612A312331204F003563E8 /* elephant.jpg */; };
+		08612A422331204F003563E8 /* peukaloinen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08612A322331204F003563E8 /* peukaloinen.jpg */; };
+		08612A432331204F003563E8 /* peippo_chaffinch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 08612A332331204F003563E8 /* peippo_chaffinch.mp3 */; };
+		08612A442331204F003563E8 /* huuhkaja.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08612A342331204F003563E8 /* huuhkaja.jpg */; };
+		08612A452331204F003563E8 /* peippo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08612A352331204F003563E8 /* peippo.jpg */; };
+		08612A462331204F003563E8 /* bear.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08612A362331204F003563E8 /* bear.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +38,22 @@
 		08612A1823311F36003563E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		08612A1B23311F36003563E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08612A1D23311F36003563E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08612A272331204E003563E8 /* elephant.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = elephant.wav; sourceTree = "<group>"; };
+		08612A282331204E003563E8 /* huuhkaja_norther_eagle_owl.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = huuhkaja_norther_eagle_owl.mp3; sourceTree = "<group>"; };
+		08612A292331204E003563E8 /* bear.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bear.wav; sourceTree = "<group>"; };
+		08612A2A2331204E003563E8 /* lamb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lamb.jpg; sourceTree = "<group>"; };
+		08612A2B2331204E003563E8 /* punatulkku_northern_bullfinch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = punatulkku_northern_bullfinch.mp3; sourceTree = "<group>"; };
+		08612A2C2331204E003563E8 /* punatulkku.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = punatulkku.jpg; sourceTree = "<group>"; };
+		08612A2D2331204E003563E8 /* wolf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wolf.jpg; sourceTree = "<group>"; };
+		08612A2E2331204E003563E8 /* lamb.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lamb.wav; sourceTree = "<group>"; };
+		08612A2F2331204E003563E8 /* peukaloinen_wren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = peukaloinen_wren.mp3; sourceTree = "<group>"; };
+		08612A302331204F003563E8 /* wolf.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = wolf.wav; sourceTree = "<group>"; };
+		08612A312331204F003563E8 /* elephant.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = elephant.jpg; sourceTree = "<group>"; };
+		08612A322331204F003563E8 /* peukaloinen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = peukaloinen.jpg; sourceTree = "<group>"; };
+		08612A332331204F003563E8 /* peippo_chaffinch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = peippo_chaffinch.mp3; sourceTree = "<group>"; };
+		08612A342331204F003563E8 /* huuhkaja.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huuhkaja.jpg; sourceTree = "<group>"; };
+		08612A352331204F003563E8 /* peippo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = peippo.jpg; sourceTree = "<group>"; };
+		08612A362331204F003563E8 /* bear.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bear.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +86,7 @@
 		08612A1023311F35003563E8 /* Ios_Labra4_teht1 */ = {
 			isa = PBXGroup;
 			children = (
+				08612A2423311FA3003563E8 /* res */,
 				08612A1123311F35003563E8 /* AppDelegate.swift */,
 				08612A1323311F35003563E8 /* ViewController.swift */,
 				08612A1523311F35003563E8 /* Main.storyboard */,
@@ -62,6 +95,29 @@
 				08612A1D23311F36003563E8 /* Info.plist */,
 			);
 			path = Ios_Labra4_teht1;
+			sourceTree = "<group>";
+		};
+		08612A2423311FA3003563E8 /* res */ = {
+			isa = PBXGroup;
+			children = (
+				08612A362331204F003563E8 /* bear.jpg */,
+				08612A292331204E003563E8 /* bear.wav */,
+				08612A312331204F003563E8 /* elephant.jpg */,
+				08612A272331204E003563E8 /* elephant.wav */,
+				08612A282331204E003563E8 /* huuhkaja_norther_eagle_owl.mp3 */,
+				08612A342331204F003563E8 /* huuhkaja.jpg */,
+				08612A2A2331204E003563E8 /* lamb.jpg */,
+				08612A2E2331204E003563E8 /* lamb.wav */,
+				08612A332331204F003563E8 /* peippo_chaffinch.mp3 */,
+				08612A352331204F003563E8 /* peippo.jpg */,
+				08612A2F2331204E003563E8 /* peukaloinen_wren.mp3 */,
+				08612A322331204F003563E8 /* peukaloinen.jpg */,
+				08612A2B2331204E003563E8 /* punatulkku_northern_bullfinch.mp3 */,
+				08612A2C2331204E003563E8 /* punatulkku.jpg */,
+				08612A2D2331204E003563E8 /* wolf.jpg */,
+				08612A302331204F003563E8 /* wolf.wav */,
+			);
+			path = res;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +178,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08612A3B2331204F003563E8 /* punatulkku_northern_bullfinch.mp3 in Resources */,
+				08612A3D2331204F003563E8 /* wolf.jpg in Resources */,
+				08612A392331204F003563E8 /* bear.wav in Resources */,
 				08612A1C23311F36003563E8 /* LaunchScreen.storyboard in Resources */,
+				08612A3A2331204F003563E8 /* lamb.jpg in Resources */,
+				08612A382331204F003563E8 /* huuhkaja_norther_eagle_owl.mp3 in Resources */,
+				08612A372331204F003563E8 /* elephant.wav in Resources */,
+				08612A462331204F003563E8 /* bear.jpg in Resources */,
+				08612A442331204F003563E8 /* huuhkaja.jpg in Resources */,
+				08612A402331204F003563E8 /* wolf.wav in Resources */,
+				08612A432331204F003563E8 /* peippo_chaffinch.mp3 in Resources */,
+				08612A422331204F003563E8 /* peukaloinen.jpg in Resources */,
+				08612A3C2331204F003563E8 /* punatulkku.jpg in Resources */,
+				08612A452331204F003563E8 /* peippo.jpg in Resources */,
+				08612A3F2331204F003563E8 /* peukaloinen_wren.mp3 in Resources */,
 				08612A1923311F36003563E8 /* Assets.xcassets in Resources */,
 				08612A1723311F35003563E8 /* Main.storyboard in Resources */,
+				08612A412331204F003563E8 /* elephant.jpg in Resources */,
+				08612A3E2331204F003563E8 /* lamb.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
